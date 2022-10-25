@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+}
+.navbar{
+    background-color: orangered;
+    height: 50px;
+    width: 100%;
+    text-align: center;
+    color: antiquewhite;
+    
+}
+.jumbotron{
+    background-color: antiquewhite;
+    width: 100%;
+    color: orangered;
+}
+.jumbotron a{
+    background-color: orangered;
+    border: 1px solid black s;
+}
+.jumbotron img{
+    width: 500px;
+    height: 400px;
+}
+.footer{
+    background-color: orangered;
+    width: 100%;
+}

@@ -1,0 +1,125 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.navbar{
+    background-color: orangered;
+    height: 50px;
+    width: 100%;
+    text-align: center;
+    color: antiquewhite;
+    
+}
+.banner{
+   align-items: center;
+   background-color: white;
+   width: 100%;
+   height: 100vh;
+
+
+}
+.banner h1{
+    color: orangered;
+    padding-top: 250px;
+}
+.banner h2{
+    color: orangered;
+    padding-top: 20px;
+}
+.jumbotron {
+    background-color: rgb(255, 80, 17);
+    width: 100%;
+    margin-top: 20px;
+    height: 500px;
+    display: flex;
+
+}
+.jumbotron h1,p{
+    color: antiquewhite;
+}
+.jumbotron img{
+    width: 250pxx;
+    height: 250px;
+}
+
+ .konten{
+    width: 100%;
+    height: 90vh;
+    margin-top: 20px;
+    justify-content: space-around;
+    /* background-color: black; */
+}
+.crd {
+    display: inline-flex;
+    float: left;
+    width: 100%;
+
+}
+.konten h2{
+    align-items: center;
+    text-align: center;
+    padding-top: 40px;
+    color: orangered;
+
+}
+.card {
+    margin-top: 50px;
+    margin-left: 20px;
+    width: 12rem;
+    color: orangered;
+    
+}
+
+.konten .card-body{
+    background-color: #FFD384;
+
+}
+.konten p{
+    color: #4d4d4d;
+}
+.konten a{
+   background-color: orangered;
+}
+
+/* akhir home */
+.jumbotron-fluid{
+    background-color: #4d4d4d;
+    height: 100vh;
+    width: 100%;
+    padding-top: 200px;
+   
+}
+
+.jumbotron-fluid form-control{
+    width: 50px;
+}
+.kategori{
+    background-color: brown;
+    width: 100%;
+    height: 100vh;
+    margin-top: 20px;
+}
+.kategori h2{
+    text-align: center;
+    padding-top: 20px;
+}
+.keragaman {
+    /* background-color: #4d4d4d; */
+    display: inline-flex;
+    width: 100%;
+    height: 450px;
+    padding-left: 125px;
+
+}
+.keragaman .card{
+    margin-left: 25px;
+    margin-top: 100px;
+    border-radius: 10px;
+    border: 2px solid orangered;
+}
+
+.footer{
+    background-color: orangered;
+    width: 100%;
+}
+

@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    background-color: orangered;
+    height: 50px;
+    width: 100%;
+    color: white;
+}
+.jumbotron{
+    width: 100%;
+    height: 600px;
+    color: white;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url(../project/img/bg2.jpg);
+  background-size: cover;
+  background-position: center;
+    text-align: center;
+    padding-top: 150px;
+    padding-left: 50px;
+}
+.jumbotron .btn {
+    background-color: orangered;
+    color: antiquewhite;
+}
+.content{
+    text-align: center;
+    display: inline-block;
+}
+.content h2{
+    color: orangered;
+}
+.content h5{
+
+    color:  orangered;
+    width: 100%;
+    height: 300h;
+    text-align: center;
+    align-items: center;
+    
+}
+.content a{
+    background-color: orangered;
+}
+
+.card  {
+    margin-top: 50px;
+    margin-left: 20px;
+    width: 12rem;
+   display: inline-block;
+
+}
+.konten{
+    width: 100%;
+    height: 150vh;
+}
+.text {
+    padding-left: 80px;
+    padding-bottom: 40px;
+}
+.text h2, h5, a{
+    color: orangered;
+    text-align: center;
+}
+.btn{
+    background-color: orangered;
+    border: 1px solid black;
+}
+.text .card-body{
+    background-color: #FFD384;
+}
+.border {
+    border-radius: 5px;
+}
+/* .footer{
+    background-color: orangered;
+    width: 100%;
+} */
+/* .konten{
+    background-color: ;
+    width: 100%;
+    height: 300h; */
+    /* text-align: center;
+    margin-top: 20px; */
